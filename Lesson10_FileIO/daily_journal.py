@@ -1,4 +1,4 @@
-event = input('What happened today?')
+event = input('What happened today? ')
 
 daily_journal = open('daily_journal.txt', 'w')
 

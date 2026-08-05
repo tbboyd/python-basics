@@ -12,7 +12,7 @@ content = file.read()
 
 print(content)
 
-## ==== Challenge 2 ====
+# ==== Challenge 2 ====
 
 print("==== Student Grade Recorder ====")
 print()
